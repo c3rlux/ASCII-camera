@@ -51,3 +51,4 @@ If the camera does not start, close other apps using the webcam and allow
 desktop apps to use the camera in Windows Privacy settings.
 
 piewieniewie
+plasje plasje waar ga jij naartoeee
