@@ -1,7 +1,9 @@
 ASCII Camera
 ============
 
-ascii camera thing you need obs!!
+ascii camera thing!
+
+you need obs!!
 
 Run
 ---
@@ -14,7 +16,7 @@ Run
    Or double-click launch.bat.
 
 Use as a camera in Discord / OBS
---------------------------------
+---------------------------------
 Double-click launch.bat or main.py.
 
 Discord: Settings > Voice and Video > Camera > OBS Virtual Camera.
